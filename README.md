@@ -8,3 +8,4 @@ This Website is made for the users to gain knowledge towards eternal peace.
 
 This is base website based on Yoga using html css. Try to write the content in the center of video.
 
+Yoga is a mind and body practice with a 5,000-year history in ancient Indian philosophy. Various styles of yoga combine physical postures, breathing techniques, and meditation or relaxation.

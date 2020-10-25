@@ -11,3 +11,4 @@ This Website is made for the users to gain knowledge towards eternal peace.
 This is base website based on Yoga using html css. Try to write the content in the center of video.
 
 Practicing yoga helps provide a foundation and tools to building good habits, such as discipline, self-inquiry, and nonattachment.
+Yoga is good for health.
